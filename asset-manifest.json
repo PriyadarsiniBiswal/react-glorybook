@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-glorybook/static/css/main.a0702c5a.css",
+    "main.js": "/react-glorybook/static/js/main.de386a22.js",
+    "index.html": "/react-glorybook/index.html",
+    "main.a0702c5a.css.map": "/react-glorybook/static/css/main.a0702c5a.css.map",
+    "main.de386a22.js.map": "/react-glorybook/static/js/main.de386a22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0702c5a.css",
+    "static/js/main.de386a22.js"
+  ]
+}
