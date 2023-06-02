@@ -7,12 +7,6 @@ import { useState, useEffect, useRef } from 'react';
 import { Users } from '../../Data';
 function Post({ post }) {
 
-
-
-    // const user = Users.filter(u => {
-
-    // })
-
     const [like, setLike] = useState(post.like);
     const [isLiked, setIsLiked] = useState(false);
     const [color, setColor] = useState(false);
@@ -26,7 +20,7 @@ function Post({ post }) {
         setColor(!color)
     }
     const fousAddOrRemove = () => {
-        // if()
+      
     }
     let userName = '';
     let userPhoto = '';

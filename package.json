@@ -2,7 +2,7 @@
   "name": "my-explore",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://PriyadarsiniBiswal.github.io/react-glorybook",
+  "homepage": "http://PriyadarsiniBiswal.github.io/react-glorybook",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
